@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://terataiputih-tau.vercel.app/sitemap.xml
